@@ -1,95 +1,118 @@
 {
-  "sunglasses" : [
-        {
-        "id": 81,
-        "title": "Round Silver Frame Sun Glasses",
-        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-        "price": 19,
-        "discountPercentage": 10.1,
-        "rating": 4.94,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 82,
-        "title": "Kabir Singh Square Sunglass",
-        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-        "price": 50,
-        "discountPercentage": 15.6,
-        "rating": 4.62,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 83,
-        "title": "Wiley X Night Vision Yellow Glasses",
-        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-        "price": 30,
-        "discountPercentage": 6.33,
-        "rating": 4.97,
-        "stock": 115,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 84,
-        "title": "Square Sunglasses",
-        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-        "price": 28,
-        "discountPercentage": 13.89,
-        "rating": 4.64,
-        "stock": 64,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 85,
-        "title": "LouisWill Men Sunglasses",
-        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-        "price": 50,
-        "discountPercentage": 11.27,
-        "rating": 4.98,
-        "stock": 92,
-        "brand": "LouisWill",
-        "category": "sunglasses",
-        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
-        }
-        ]
+  "articles": [
+    {
+      "id": "1",
+      "title": "Top 10 Games of the Year",
+      "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "author": "Jean Dupont",
+      "date": "2018-01-01",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Heroes of the Year",
+      "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "author": "Jean Dupont",
+      "date": "2018-01-01",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "3",
+      "title": "People of the Year",
+      "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "author": "Jean Dupont",
+      "date": "2018-01-01",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "",
+      "content": "",
+      "author": "",
+      "id": "4",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "sfbsfbsf",
+      "content": "fdrnbd",
+      "author": "sfbsfbsf",
+      "id": "5",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "gveq",
+      "content": "eqwfqfq",
+      "author": "qewfqefqe",
+      "id": "6",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Task Test",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Tacite bahiga",
+      "date": "2023-11-23T13:05:19.016Z",
+      "id": "7",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:05:31.904Z",
+      "id": "8",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:07:38.260Z",
+      "id": "9",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "614",
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:08:55.718Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "389",
+      "title": "hey",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Diedone",
+      "date": "2023-11-23T13:09:21.631Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "42",
+      "title": "I revalidate data with caching!",
+      "content": "the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Test",
+      "date": "2024-11-23T13:09:21.631Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Hi im a artcile create with form",
+      "content": "heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "date": "2024-02-18T18:38:18.121Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "194",
+      "title": "tweet",
+      "content": "sljghrilgjlrnvllknfnvdjgknjn",
+      "date": "2024-02-19T13:03:26.253Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "265",
+      "title": "POSTTTT",
+      "content": "content post",
+      "author": "mr robot",
+      "date": "2024-02-25T09:53:26.784Z"
+    }
+  ]
 }
