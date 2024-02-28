@@ -24,15 +24,17 @@
       "content": "Si toi aussi tu veux te lancer dans React mais que tous ces dossiers et sous-dossiers te font peur 😰\n\nPas de panique je t'explique tout pour devenir le ChadCoder 😎\n\n#BecomeTheChadCoder",
       "author": "Yoni Deserbaix",
       "date": "19 février 2024",
-      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/structure_react.png?token=GHSAT0AAAAAACM3R3EMXA7VK3OY5DJ2EUQUZO7IL2A",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/structure_react.png",
       "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/structure_react_full.jpg"
     },
     {
-      "title": "",
-      "content": "",
-      "author": "",
+      "title": "Les méthodes HTTP",
+      "content": "Connaissais-tu la différence entre PUT et PATCH ? 😄",
+      "author": "Yoni Deserbaix",
       "id": "4",
-      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+      "date":"7 février 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/methodes_http.png",
+      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/methodes_http_full.jpg"
     },
     {
       "title": "sfbsfbsf",
