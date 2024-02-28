@@ -1,118 +1,118 @@
 {
-    "articles": [
-      {
-        "id": "1",
-        "title": "Mon portfolio",
-        "content": "Bonjour à tous sur mon blog ! Je suis ravi de vous présenter mon tout nouveau portfolio ! 🎉👨‍💻 Découvrez-le dès maintenant en cliquant sur ce lien : ✨ [lien vers le portfolio] ✨ Vos commentaires, suggestions et retours sont les bienvenus ! 💬 N'hésitez pas à explorer le portfolio et à partager vos réflexions. 🚀 Je suis également ouvert à des opportunités d'alternance à partir de septembre dans la région de Nantes. Toute idée ou opportunité à discuter est la bienvenue ! 🌟 Si vous appréciez ce que vous voyez, n'hésitez pas à partager ce post avec vos amis et contacts ! 😇 Merci à tous pour votre soutien ! 🌐💻",
-        "author": "Yoni Deserbaix",
-        "date": "2018-01-01",
-        "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work01.png"
-      },
-      {
-        "id": "2",
-        "title": "Heroes of the Year",
-        "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
-        "author": "Jean Dupont",
-        "date": "2018-01-01",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "3",
-        "title": "People of the Year",
-        "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
-        "author": "Jean Dupont",
-        "date": "2018-01-01",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "",
-        "content": "",
-        "author": "",
-        "id": "4",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "sfbsfbsf",
-        "content": "fdrnbd",
-        "author": "sfbsfbsf",
-        "id": "5",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "gveq",
-        "content": "eqwfqfq",
-        "author": "qewfqefqe",
-        "id": "6",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "Task Test",
-        "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "Tacite bahiga",
-        "date": "2023-11-23T13:05:19.016Z",
-        "id": "7",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "Playing hide and seek",
-        "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "David",
-        "date": "2023-11-23T13:05:31.904Z",
-        "id": "8",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "title": "Playing hide and seek",
-        "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "David",
-        "date": "2023-11-23T13:07:38.260Z",
-        "id": "9",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "614",
-        "title": "Playing hide and seek",
-        "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "David",
-        "date": "2023-11-23T13:08:55.718Z",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "389",
-        "title": "hey",
-        "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "Diedone",
-        "date": "2023-11-23T13:09:21.631Z",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "42",
-        "title": "I revalidate data with caching!",
-        "content": "the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
-        "author": "Test",
-        "date": "2024-11-23T13:09:21.631Z",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "10",
-        "title": "Hi im a artcile create with form",
-        "content": "heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
-        "date": "2024-02-18T18:38:18.121Z",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "194",
-        "title": "tweet",
-        "content": "sljghrilgjlrnvllknfnvdjgknjn",
-        "date": "2024-02-19T13:03:26.253Z",
-        "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
-      },
-      {
-        "id": "265",
-        "title": "POSTTTT",
-        "content": "content post",
-        "author": "mr robot",
-        "date": "2024-02-25T09:53:26.784Z"
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": "1",
+      "title": "Mon portfolio",
+      "content": "Salut à tous les développeurs !\n\nJe suis ravi de vous présenter mon tout dernier projet personnel : une landing page exclusive pour le jeu vidéo tant attendu, GTA VI ! 🦩\n\nAprès avoir effectué plusieurs recherches en ligne, j'ai remarqué qu'il n'y avait pas encore de projet de développement web dédié à ce jeu iconique, en raison du manque d'informations disponibles à ce jour. C'est pourquoi je me suis lancé dans cette aventure, dans l'espoir de proposer quelque chose de spécial aux fans qui attendent avec impatience GTA VI depuis des années ! ⭐\n\n🎮 Que propose cette landing page ? :\n- 📜 Une brève présentation de l'histoire du jeu.\n- 🎥 Un trailer époustouflant du jeu vidéo.\n- 📸 Un carrousel captivant présentant des images exclusives.\n- 🎮 Une section dédiée à la précommande du jeu pour ne rien manquer de l'action dès son lancement.\n\n💭 Pour ce projet, je me suis inspiré d'un modèle sur Dribbble et du site officiel de Rockstar. C'est ma manière de m'immerger dans l'univers incroyable de GTA VI et de partager cette expérience unique avec la communauté des joueurs.\n\nCe que j'ai particulièrement apprécié 🌟 :\nJ'ai été captivé par la manière dont j'ai réussi à reproduire le site web tout en y ajoutant des informations essentielles sur le jeu que Rockstar n'a pas encore intégrées sur leur site officiel (du moins pour l'instant). De plus, l'ajout d'animations au scroll grâce à la librairie AOS JS apporte une touche dynamique et immersive à l'expérience !\n\n👉 Vous pouvez voir une démo ici : [lien vers la démo](https://lnkd.in/e3_SAyvg)\n👉 Le code source est disponible ici : [lien vers le code source](https://lnkd.in/e3bxNs92)\n\nJ'attends avec impatience vos retours !\nJe suis ouvert aux commentaires, aux critiques constructives et aux suggestions d'amélioration. Si vous avez des idées pour de nouvelles fonctionnalités ou des ajustements, n'hésitez pas à les partager dans les commentaires ci-dessous !\n\nBonjour à tous sur mon blog !\n\nJe suis ravi de vous présenter mon tout nouveau portfolio ! 🎉👨‍💻\n\nDécouvrez-le dès maintenant en cliquant sur ce lien : ✨ [lien vers le portfolio] ✨\n\nVos commentaires, suggestions et retours sont les bienvenus ! 💬\n\nN'hésitez pas à explorer le portfolio et à partager vos réflexions. 🚀\n\nJe suis également ouvert à des opportunités d'alternance à partir de septembre dans la région de Nantes. Toute idée ou opportunité à discuter est la bienvenue ! 🌟\n\nSi vous appréciez ce que vous voyez, n'hésitez pas à partager ce post avec vos amis et contacts ! 😇\n\nMerci à tous pour votre soutien ! 🌐💻",
+      "author": "Yoni Deserbaix",
+      "date": "1 février 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work01.png"
+    },
+    {
+      "id": "2",
+      "title": "Landing page GTA VI ",
+      "content": "Salut à tous les développeurs !\n\nJe suis ravi de vous présenter mon tout dernier projet personnel : une landing page exclusive pour le jeu vidéo tant attendu, GTA VI ! 🦩\n\nAprès avoir effectué plusieurs recherches en ligne, j'ai remarqué qu'il n'y avait pas encore de projet de développement web dédié à ce jeu iconique, en raison du manque d'informations disponibles à ce jour. C'est pourquoi je me suis lancé dans cette aventure, dans l'espoir de proposer quelque chose de spécial aux fans qui attendent avec impatience GTA VI depuis des années ! ⭐\n\n🎮 Que propose cette landing page ? :\n- 📜 Une brève présentation de l'histoire du jeu.\n- 🎥 Un trailer époustouflant du jeu vidéo.\n- 📸 Un carrousel captivant présentant des images exclusives.\n- 🎮 Une section dédiée à la précommande du jeu pour ne rien manquer de l'action dès son lancement.\n\n💭 Pour ce projet, je me suis inspiré d'un modèle sur Dribbble et du site officiel de Rockstar. C'est ma manière de m'immerger dans l'univers incroyable de GTA VI et de partager cette expérience unique avec la communauté des joueurs.\n\nCe que j'ai particulièrement apprécié 🌟 :\nJ'ai été captivé par la manière dont j'ai réussi à reproduire le site web tout en y ajoutant des informations essentielles sur le jeu que Rockstar n'a pas encore intégrées sur leur site officiel (du moins pour l'instant). De plus, l'ajout d'animations au scroll grâce à la librairie AOS JS apporte une touche dynamique et immersive à l'expérience !\n\n👉 Vous pouvez voir une démo ici : [lien vers la démo](https://lnkd.in/e3_SAyvg)\n👉 Le code source est disponible ici : [lien vers le code source](https://lnkd.in/e3bxNs92)\n\nJ'attends avec impatience vos retours !\nJe suis ouvert aux commentaires, aux critiques constructives et aux suggestions d'amélioration. Si vous avez des idées pour de nouvelles fonctionnalités ou des ajustements, n'hésitez pas à les partager dans les commentaires ci-dessous !",
+      "author": "Yoni Deserbaix",
+      "date": "14 Janvier 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work05.png"
+    },
+    {
+      "id": "3",
+      "title": "People of the Year",
+      "content": "Donec tempus molestie nisl in euismod. Quisque vel tortor non mi pulvinar vestibulum. Donec a odio fringilla, lacinia quam eget, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean facilisis ornare arcu maximus mattis. Nunc vitae nisi id turpis auctor malesuada in non dui. Nulla facilisi. Curabitur mattis est neque, tincidunt lobortis risus efficitur et. In vulputate molestie dolor, id tincidunt velit. Pellentesque porttitor est ut ultrices eleifend. Nulla vel suscipit nunc. Morbi ac feugiat urna. Quisque et rutrum eros. Morbi ullamcorper tortor in condimentum aliquet. Fusce vitae imperdiet metus.",
+      "author": "Jean Dupont",
+      "date": "2018-01-01",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "",
+      "content": "",
+      "author": "",
+      "id": "4",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "sfbsfbsf",
+      "content": "fdrnbd",
+      "author": "sfbsfbsf",
+      "id": "5",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "gveq",
+      "content": "eqwfqfq",
+      "author": "qewfqefqe",
+      "id": "6",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Task Test",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Tacite bahiga",
+      "date": "2023-11-23T13:05:19.016Z",
+      "id": "7",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:05:31.904Z",
+      "id": "8",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:07:38.260Z",
+      "id": "9",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "614",
+      "title": "Playing hide and seek",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "David",
+      "date": "2023-11-23T13:08:55.718Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "389",
+      "title": "hey",
+      "content": "Having all the necessary skills to carry out this project successfully, we have chosen to create a platform to rationalize the .\nThus, hospitals and municipalities will have a tool allowing them to archive and conduct studies on the internships of different students, and to allow them to find an internship more quickly.\nStudents will be able to consult the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Diedone",
+      "date": "2023-11-23T13:09:21.631Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "42",
+      "title": "I revalidate data with caching!",
+      "content": "the content of the platform in order to facilitate their internship search.\nInitially, we will discuss the conduct of the project from the creation, then the analysis, the realization of this project and finally the different difficulties encountered.\n",
+      "author": "Test",
+      "date": "2024-11-23T13:09:21.631Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Hi im a artcile create with form",
+      "content": "heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "date": "2024-02-18T18:38:18.121Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "194",
+      "title": "tweet",
+      "content": "sljghrilgjlrnvllknfnvdjgknjn",
+      "date": "2024-02-19T13:03:26.253Z",
+      "linkImage": "https://botnation.ai/site/wp-content/uploads/2022/11/internet-metaverse-1400x800.jpg"
+    },
+    {
+      "id": "265",
+      "title": "POSTTTT",
+      "content": "content post",
+      "author": "mr robot",
+      "date": "2024-02-25T09:53:26.784Z"
+    }
+  ]
+}
