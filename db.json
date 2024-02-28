@@ -2,24 +2,6 @@
   "articles": [
     {
       "id": "1",
-      "title": "Mon portfolio",
-      "content": "Bonjour à tous sur mon blog !\n\nJe suis ravi de vous présenter mon tout nouveau portfolio ! 🎉👨‍💻\n\nDécouvrez-le dès maintenant en cliquant sur ce lien : ✨ https://yoni-deserbaix.github.io/Portfolio/ ✨\n\nVos commentaires, suggestions et retours sont les bienvenus ! 💬\n\nN'hésitez pas à explorer le portfolio et à partager vos réflexions. 🚀\n\nJe suis également ouvert à des opportunités d'alternance à partir de septembre dans la région de Nantes. Toute idée ou opportunité à discuter est la bienvenue ! 🌟\n\nSi vous appréciez ce que vous voyez, n'hésitez pas à partager cet article avec vos amis et contacts ! 😇\n\nMerci à tous pour votre soutien ! 🌐💻",
-      "author": "Yoni Deserbaix",
-      "date": "1 février 2024",
-      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work01.png",
-      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/portfolio.png"
-    },
-    {
-      "id": "2",
-      "title": "Landing page GTA VI ",
-      "content": "Salut à tous les développeurs !\n\nJe suis ravi de vous présenter mon tout dernier projet personnel : une landing page exclusive pour le jeu vidéo tant attendu, GTA VI ! 🦩\n\nAprès avoir effectué plusieurs recherches en ligne, j'ai remarqué qu'il n'y avait pas encore de projet de développement web dédié à ce jeu iconique, en raison du manque d'informations disponibles à ce jour. C'est pourquoi je me suis lancé dans cette aventure, dans l'espoir de proposer quelque chose de spécial aux fans qui attendent avec impatience GTA VI depuis des années ! ⭐\n\n🎮 Que propose cette landing page ? :\n- 📜 Une brève présentation de l'histoire du jeu.\n- 🎥 Un trailer époustouflant du jeu vidéo.\n- 📸 Un carrousel captivant présentant des images exclusives.\n- 🎮 Une section dédiée à la précommande du jeu pour ne rien manquer de l'action dès son lancement.\n\n💭 Pour ce projet, je me suis inspiré d'un modèle sur Dribbble et du site officiel de Rockstar. C'est ma manière de m'immerger dans l'univers incroyable de GTA VI et de partager cette expérience unique avec la communauté des joueurs.\n\nCe que j'ai particulièrement apprécié 🌟 :\nJ'ai été captivé par la manière dont j'ai réussi à reproduire le site web tout en y ajoutant des informations essentielles sur le jeu que Rockstar n'a pas encore intégrées sur leur site officiel (du moins pour l'instant). De plus, l'ajout d'animations au scroll grâce à la librairie AOS JS apporte une touche dynamique et immersive à l'expérience !\n\n👉 Vous pouvez voir une démo ici : https://yoni-deserbaix.github.io/GTA-VI-Landing-Page/\n👉 Le code source est disponible ici : https://github.com/Yoni-Deserbaix/GTA-VI-Landing-Page\n\nJ'attends avec impatience vos retours !\nJe suis ouvert aux commentaires, aux critiques constructives et aux suggestions d'amélioration.",
-      "author": "Yoni Deserbaix",
-      "date": "14 Janvier 2024",
-      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work05.png",
-      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/gta6.png"
-    },
-    {
-      "id": "3",
       "title": "Structure projet React",
       "content": "Si toi aussi tu veux te lancer dans React mais que tous ces dossiers et sous-dossiers te font peur 😰\n\nPas de panique je t'explique tout pour devenir le ChadCoder 😎\n\n#BecomeTheChadCoder",
       "author": "Yoni Deserbaix",
@@ -28,22 +10,40 @@
       "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/structure_react_full.jpg"
     },
     {
+      "id": "2",
+      "title": "Nouvelle aventure : investissement en bourse",
+      "content": "Depuis quelques semaines, je me suis lancé dans une nouvelle aventure : l'investissement en bourse. C'est un domaine qui m'a toujours intrigué, mais que je n'avais jamais vraiment exploré sérieusement jusqu'à présent. Avec un peu de temps libre et une forte volonté d'apprendre, j'ai décidé de plonger dans le monde complexe, mais fascinant, des marchés financiers 💼💡\n\nPour débuter mon parcours d'investisseur, j'ai opté pour une approche relativement prudente en investissant dans des ETF (Exchange-Traded Funds). Ces instruments financiers offrent une diversification instantanée en regroupant un panier d'actions ou d'obligations, ce qui réduit le risque par rapport à l'investissement dans des actions individuelles. 💰\n\nMes premiers pas dans l'univers des ETF m'ont amené à investir dans deux fonds en particulier : le iShares Core S&P 500 (Acc) et le Amundi Japan Topix EUR Hedged (Acc). Le premier, qui suit l'indice S&P 500, me permet de bénéficier de l'exposition à 500 des plus grandes entreprises américaines, offrant ainsi une diversification importante dans le marché boursier américain. Quant au Japan Topix, il me donne accès au marché japonais, qui représente une économie majeure et dynamique à l'échelle mondiale. 🌏📊\n\nCe choix n'a pas été fait au hasard. En effet, le S&P 500 est largement reconnu comme un indicateur de référence pour le marché boursier américain, tandis que le marché japonais présente un potentiel de croissance intéressant avec des entreprises innovantes et des secteurs dynamiques. 📈\n\nBien sûr, je suis conscient que l'investissement en bourse comporte des risques, et c'est pourquoi j'ai pris le temps de faire des recherches approfondies et de comprendre les mécanismes du marché avant de me lancer. De plus, je suis prêt à adopter une approche à long terme, sachant que les fluctuations à court terme font partie intégrante du jeu. 📚💡\n\nJe suis extrêmement enthousiaste à l'idée de cette nouvelle aventure et je suis impatient de partager avec vous mes expériences, mes réussites ainsi que mes échecs éventuels dans le domaine de l'investissement en bourse. Restez donc à l'écoute pour découvrir la suite de cette aventure financière ! 🚀💼",
+      "author": "Yoni Deserbaix",
+      "date": "14 février 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/debut_investissement.png",
+      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/debut_investissement_full.png"
+    },
+    {
+      "id": "3",
       "title": "Les méthodes HTTP",
       "content": "Connaissais-tu la différence entre PUT et PATCH ? 😄",
       "author": "Yoni Deserbaix",
-      "id": "4",
       "date": "7 février 2024",
       "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/methodes_http.png",
       "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/methodes_http_full.jpg"
     },
     {
-      "title": "Nouvelle aventure : investissement en bourse",
-      "content": "Depuis quelques semaines, je me suis lancé dans une nouvelle aventure : l'investissement en bourse. C'est un domaine qui m'a toujours intrigué, mais que je n'avais jamais vraiment exploré sérieusement jusqu'à présent. Avec un peu de temps libre et une forte volonté d'apprendre, j'ai décidé de plonger dans le monde complexe, mais fascinant, des marchés financiers.\n\nPour débuter mon parcours d'investisseur, j'ai opté pour une approche relativement prudente en investissant dans des ETF (Exchange-Traded Funds). Ces instruments financiers offrent une diversification instantanée en regroupant un panier d'actions ou d'obligations, ce qui réduit le risque par rapport à l'investissement dans des actions individuelles.\n\nMes premiers pas dans l'univers des ETF m'ont amené à investir dans deux fonds en particulier : le iShares Core S&P 500 (Acc) et le Amundi Japan Topix EUR Hedged (Acc). Le premier, qui suit l'indice S&P 500, me permet de bénéficier de l'exposition à 500 des plus grandes entreprises américaines, offrant ainsi une diversification importante dans le marché boursier américain. Quant au Japan Topix, il me donne accès au marché japonais, qui représente une économie majeure et dynamique à l'échelle mondiale.\n\nCe choix n'a pas été fait au hasard. En effet, le S&P 500 est largement reconnu comme un indicateur de référence pour le marché boursier américain, tandis que le marché japonais présente un potentiel de croissance intéressant avec des entreprises innovantes et des secteurs dynamiques.\n\nBien sûr, je suis conscient que l'investissement en bourse comporte des risques, et c'est pourquoi j'ai pris le temps de faire des recherches approfondies et de comprendre les mécanismes du marché avant de me lancer. De plus, je suis prêt à adopter une approche à long terme, sachant que les fluctuations à court terme font partie intégrante du jeu.\n\nJe suis extrêmement enthousiaste à l'idée de cette nouvelle aventure et je suis impatient de partager avec vous mes expériences, mes réussites ainsi que mes échecs éventuels dans le domaine de l'investissement en bourse. Restez donc à l'écoute pour découvrir la suite de cette aventure financière !",
+      "id": "4",
+      "title": "Mon portfolio",
+      "content": "Bonjour à tous sur mon blog !\n\nJe suis ravi de vous présenter mon tout nouveau portfolio ! 🎉👨‍💻\n\nDécouvrez-le dès maintenant en cliquant sur ce lien : ✨ https://yoni-deserbaix.github.io/Portfolio/ ✨\n\nVos commentaires, suggestions et retours sont les bienvenus ! 💬\n\nN'hésitez pas à explorer le portfolio et à partager vos réflexions. 🚀\n\nJe suis également ouvert à des opportunités d'alternance à partir de septembre dans la région de Nantes. Toute idée ou opportunité à discuter est la bienvenue ! 🌟\n\nSi vous appréciez ce que vous voyez, n'hésitez pas à partager cet article avec vos amis et contacts ! 😇\n\nMerci à tous pour votre soutien ! 🌐💻",
       "author": "Yoni Deserbaix",
+      "date": "1 février 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work01.png",
+      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/portfolio.png"
+    },
+    {
       "id": "5",
-      "date": "14 février 2024",
-      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/debut_investissement.png",
-      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/debut_investissement_full.png"
+      "title": "Landing page GTA VI ",
+      "content": "Salut à tous les développeurs !\n\nJe suis ravi de vous présenter mon tout dernier projet personnel : une landing page exclusive pour le jeu vidéo tant attendu, GTA VI ! 🦩\n\nAprès avoir effectué plusieurs recherches en ligne, j'ai remarqué qu'il n'y avait pas encore de projet de développement web dédié à ce jeu iconique, en raison du manque d'informations disponibles à ce jour. C'est pourquoi je me suis lancé dans cette aventure, dans l'espoir de proposer quelque chose de spécial aux fans qui attendent avec impatience GTA VI depuis des années ! ⭐\n\n🎮 Que propose cette landing page ? :\n- 📜 Une brève présentation de l'histoire du jeu.\n- 🎥 Un trailer époustouflant du jeu vidéo.\n- 📸 Un carrousel captivant présentant des images exclusives.\n- 🎮 Une section dédiée à la précommande du jeu pour ne rien manquer de l'action dès son lancement.\n\n💭 Pour ce projet, je me suis inspiré d'un modèle sur Dribbble et du site officiel de Rockstar. C'est ma manière de m'immerger dans l'univers incroyable de GTA VI et de partager cette expérience unique avec la communauté des joueurs.\n\nCe que j'ai particulièrement apprécié 🌟 :\nJ'ai été captivé par la manière dont j'ai réussi à reproduire le site web tout en y ajoutant des informations essentielles sur le jeu que Rockstar n'a pas encore intégrées sur leur site officiel (du moins pour l'instant). De plus, l'ajout d'animations au scroll grâce à la librairie AOS JS apporte une touche dynamique et immersive à l'expérience !\n\n👉 Vous pouvez voir une démo ici : https://yoni-deserbaix.github.io/GTA-VI-Landing-Page/\n👉 Le code source est disponible ici : https://github.com/Yoni-Deserbaix/GTA-VI-Landing-Page\n\nJ'attends avec impatience vos retours !\nJe suis ouvert aux commentaires, aux critiques constructives et aux suggestions d'amélioration.",
+      "author": "Yoni Deserbaix",
+      "date": "14 Janvier 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/Portfolio/main/src/assets/work05.png",
+      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/gta6.png"
     }
   ]
 }
