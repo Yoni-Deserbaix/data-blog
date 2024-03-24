@@ -1,12 +1,21 @@
 {
   "articles": [
     {
-      "id":"7",
+      "id": "8",
+      "title": "Interface Github en VSCode",
+      "content": "Récemment j'ai découvert une astuce sur GitHub qui me fait gagner un temps énorme quand je code.\n\nCette astuce m'a vraiment fait gagner du temps lorsque je devais accéder à des codes avec pleinnnnns de sous-dossiers, vous la connaissez ?\n\n#BecomeTheChadCoder",
+      "author": "Yoni Deserbaix",
+      "date": "11 mars 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/github_to_vsc.png",
+      "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/github_to_vsc_full.jpg"
+    },
+    {
+      "id": "7",
       "title": "Les opérations ternaires en JavaScript",
       "content": "Les opérations ternaires sont une façon concise et élégante d'écrire des instructions conditionnelles en JavaScript. Plutôt que d'utiliser une déclaration if...else, vous pouvez utiliser une opération ternaire pour accomplir la même chose en une seule ligne de code !\n\n#BecomeTheChadCoder",
-      "author":"Yoni Deserbaix",
-      "date":"7 mars 2024",
-      "linkImage" :"https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/ternary_operator.png",
+      "author": "Yoni Deserbaix",
+      "date": "7 mars 2024",
+      "linkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/ternary_operator.png",
       "idLinkImage": "https://raw.githubusercontent.com/Yoni-Deserbaix/data-blog/main/assets/ternary_operator_full.jpg"
     },
     {
